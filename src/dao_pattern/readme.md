@@ -17,7 +17,7 @@
 
 #### Ví dụ:
 
-![dao-pattern-uml-demo](https://github.com/minhchauptit/design-pattern-learning/blob/master/src/facade_pattern/dao-pattern-uml-demo.png?raw=true)
+![dao-pattern-uml-demo](https://github.com/minhchauptit/design-pattern-learning/blob/master/src/dao_pattern/dao-pattern-uml-demo.png?raw=true)
 
 **_Bước 1:_** Tạo lớp thực thể Student
 ````
