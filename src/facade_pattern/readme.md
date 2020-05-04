@@ -15,6 +15,8 @@
 
 #### Ví dụ
 
+![facade-pattern-image-uml](https://github.com/minhchauptit/design-pattern-learning/blob/master/src/facade_pattern/facade-pattern-uml-demo.png?raw=true)
+
 **_Bước 1:_** Tạo interface cho MobileShop
 ````
 public interface MobileShop {
