@@ -1,6 +1,6 @@
 package composite_pattern;
 
-public class NguyenMinhChau {
+public class Main {
     public static void main(String[] args) {
         EmployeeComposite composite = new EmployeeComposite();
         composite.addEmp(new Developer(100,"Nguyen Van A","Developer"));
